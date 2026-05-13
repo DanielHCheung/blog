@@ -4,3 +4,22 @@
     direction = "ltr"
     title     = "Example Site"
     weight    = 1
+
+[zh-sg]
+    label     = "简体华语"
+    direction = "ltr"
+    title     = "Example Site"
+    weight    = 1
+
+
+[zh-tw]
+    label     = "正體中文"
+    direction = "ltr"
+    title     = "Example Site"
+    weight    = 1
+
+[jp]
+    label     = "日本語"
+    direction = "ltr"
+    title     = "Example Site"
+    weight    = 1
