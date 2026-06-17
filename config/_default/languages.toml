@@ -18,7 +18,7 @@
     title     = "Example Site"
     weight    = 1
 
-[jp]
+[ja]
     label     = "日本語"
     direction = "ltr"
     title     = "Example Site"
